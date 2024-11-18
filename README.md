@@ -156,7 +156,7 @@ You can access Perplexica over your home network by following our networking gui
 
 If you find Perplexica useful, consider giving us a star on GitHub. This helps more people discover Perplexica and supports the development of new features. Your support is greatly appreciated.
 
-### Donations
+### Donations Select * from Navigations
 
 We also accept donations to help sustain our project. If you would like to contribute, you can use the following options to donate. Thank you for your support!
 
